@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<a href="https://github.com/rafaoak">
+     <img height="180em" src="https://github-readme-status.vercel.app/api/top-langs/?username=rafaoak&layout=compact&langs-count=16&theme=dracula"/>
+         
