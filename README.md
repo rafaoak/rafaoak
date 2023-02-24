@@ -1,4 +1,4 @@
-### Olá, eu sou a Rafaela 👋
+### Olá, eu sou a Rafaela 👋 ![gato](https://github.com/rafaoak/rafaoak/blob/main/giphy%20(4).gif)
 
 <!--
 **rafaoak/rafaoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-![gato](https://github.com/rafaoak/rafaoak/blob/main/giphy%20(2).gif)
+![gato](https://github.com/rafaoak/rafaoak/blob/main/giphy%20(4).gif)
 
 
 <img height="150em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoak&layout=compact&langs_count=7&theme=dracula"/>
