@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![gato](https://github.com/rafaoak/rafaoak/blob/main/giphy%20(1).gif)
 
 <img height="180em" width="394px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoak&layout=compact&langs_count=7&theme=dracula"/>
  <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaoak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
