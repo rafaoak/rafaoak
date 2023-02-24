@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A569BD&height=120&section=header"/>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=A569BD&size=35&center=true&vCenter=true&width=1000&lines=Hello+World,+eu+sou+a+Rafaela+Carvalho+♛;+:%29)](https://git.io/typing-svg)
+
+
 ### Hello world, eu sou a Rafaela ♛  
 <!--
 **rafaoak/rafaoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
