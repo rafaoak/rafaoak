@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A569BD&height=120&section=header"/>
+
 ### Hello world, eu sou a Rafaela ♛  
 <!--
 **rafaoak/rafaoak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,3 +18,4 @@ Here are some ideas to get you started:
 <img height="180em" width="354px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaoak&layout=compact&langs_count=7&theme=dracula"/> <img height="180em" width="400px" src="https://github-readme-stats.vercel.app/api?username=rafaoak&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=A569BD&height=120&section=footer"/>
