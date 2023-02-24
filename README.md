@@ -26,8 +26,9 @@ Here are some ideas to get you started:
   <code><img align="center" alt="CSS-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" title = "CSS3"></code>
   <code><img align="center" alt="React-rafa" width="40px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title = "React"></code>
   <code><img align="center" alt="git-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title = "git"></code>
-  
-  </div>
+  <code><img align="center" alt="git-rafa" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" title = "C#"></code>
+           
+ </div>
 
  
 ![gato](https://github.com/rafaoak/rafaoak/blob/main/68747470733a2f2f7061312e6e61727669692e636f6d2f363433312f323361353832356432616432383533316537383761373661643261336562363662383334343133635f68712e676966.gif)
